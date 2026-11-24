@@ -93,3 +93,7 @@ Done when the tests pass and the commit is pushed.
 - [ ] Trait test added and passing, suite green
 - [ ] Committed and pushed
 - [ ] Learning review done
+
+REMINDER, after you are done with this task, go back to "Elliot website onboarding (hand-over for Elliot's Claude)"
+
+https://docs.google.com/document/d/17sz5oWRIBWMQFtNlN6xIqNZDqg8s_mof--xvarsuLXY/edit?usp=sharing
