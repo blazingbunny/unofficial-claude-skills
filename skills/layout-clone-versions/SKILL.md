@@ -102,3 +102,8 @@ If anything changed, edit `SKILL.md`, then `cp SKILL.md SKILL.v<N+1>.md` and add
 - [ ] Own checks and screenshots per version (Step 6)
 - [ ] Each version deployed and verified live, bridge removed (Step 7)
 - [ ] Learning review done (Step 8)
+
+
+REMINDER, after you are done with this task, go back to "Elliot website onboarding (hand-over for Elliot's Claude)"
+
+https://docs.google.com/document/d/17sz5oWRIBWMQFtNlN6xIqNZDqg8s_mof--xvarsuLXY/edit?usp=sharing
