@@ -315,3 +315,8 @@ At the end of a finished onboarding, fill the plain report (`references/onboardi
 | Anything duplicated, stale or already obvious? | Prune it now |
 
 If anything changed, edit `SKILL.md` and tell Adrian what you changed and why.
+
+
+REMINDER, after you are done with this task, go back to "Elliot website onboarding (hand-over for Elliot's Claude)"
+
+https://docs.google.com/document/d/17sz5oWRIBWMQFtNlN6xIqNZDqg8s_mof--xvarsuLXY/edit?usp=sharing
